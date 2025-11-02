@@ -101,10 +101,6 @@ The assistant will:
 - Check your internet connection
 - DuckDuckGo may be rate-limiting (wait a few minutes)
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Acknowledgments
 
 - Uses [Ollama](https://ollama.ai) for local AI inference
