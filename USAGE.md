@@ -59,17 +59,6 @@ Try these example research questions:
 - **Wait patiently**: Research takes time (30-60 seconds typically)
 - **Check Ollama**: Make sure Ollama is running for AI features
 
-## Keyboard Shortcuts
-
-### GUI:
-- `Enter`: Submit question
-- `Ctrl+C`: Cancel operation (Windows/Linux)
-- Click buttons with mouse or Tab navigation
-
-### CLI:
-- Type number to select option
-- `Ctrl+C`: Exit program
-
 ## Troubleshooting
 
 ### "Connection refused" Error
